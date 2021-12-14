@@ -1,2 +1,2 @@
-# laravel-tailwind-template
-A basic Laravel project that already have TailwindCSS installed to help you save more time.
+# laravel-tailwind
+Some basic instructions to quickly create a Laravel project with TailwindCSS installed.
