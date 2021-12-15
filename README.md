@@ -64,3 +64,7 @@ Now to actually use Tailwind it's necessary to run:
 a basic command included in the package.json file of a default Laravel installation.
 If you did everything correct you shouldn't receive any error and your terminal should look something like this:
 ![Immagine 2021-12-14 235109](https://user-images.githubusercontent.com/74593180/146092004-c21c4b72-e5d7-40ae-b032-286ec85072fa.png)
+
+Last thing you need to do is link tailwind to your .blade.php file by including the following line in the <head> section.
+	
+**```<link rel="stylesheet" href="../css/app.css">```**
